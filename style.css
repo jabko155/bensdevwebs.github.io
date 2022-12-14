@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+
+
+}
+.th {
+    width:20%;
+    height:20%;
+
+}
+.thp {
+    width: 35%;
+    height: 35%;
+}
+.thh {
+    width:60%;
+    height:60%;
+
+}
+.mf {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;   
+    color: white;
+    width:30%;
+    height:30%;
+    border-left-color: white;  
+    border-style:double;
+    border-radius: 1px;
+}
+.bt {
+    color: white;
+}
+.b {
+    background-color: black;
+    color: purple;
+    border-style: groove;
+    border-color: white;
+    width:40%;
+    height:40%;
+}
